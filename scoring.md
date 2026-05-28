@@ -2,13 +2,20 @@
 
 Document utilisé pour évaluer toute annonce d'emploi par rapport à mon profil (`profil.md`) et mon CV (`cv.md`).
 
-## Principe
+## Principe — système à 2 axes
 
-Chaque annonce est notée sur **10 dimensions pondérées**. Le score final est une **note A à F** qui détermine si je candidate ou pas.
+Chaque annonce est notée sur **deux axes indépendants** :
 
-Le scoring doit être **brutalement honnête**. Une annonce notée C ou en dessous ne mérite probablement pas une candidature personnalisée. Mieux vaut 5 candidatures A bien préparées que 50 candidatures D envoyées en masse.
+- **Axe 1 — Désirabilité** : est-ce que ce poste me convient ? (10 dimensions pondérées → note **A à F**)
+- **Axe 2 — Probabilité d'embauche** : ai-je des chances réelles de l'obtenir ? (6 dimensions pondérées → tier **Élevée / Moyenne / Faible**)
+
+Les deux axes se croisent dans une **matrice de priorisation** (voir plus bas) qui détermine où mettre mon énergie. Un poste parfait que je n'obtiendrai jamais ne vaut pas mieux qu'un bon poste accessible.
+
+Le scoring doit être **brutalement honnête** sur les deux axes. Mieux vaut 5 candidatures bien ciblées (désirables ET atteignables) que 50 candidatures envoyées en masse.
 
 ---
+
+# AXE 1 — DÉSIRABILITÉ (est-ce que ce poste me convient ?)
 
 ## Les 10 dimensions
 
@@ -153,6 +160,119 @@ Indépendamment du score :
 
 ---
 
+# AXE 2 — PROBABILITÉ D'EMBAUCHE (ai-je des chances de l'obtenir ?)
+
+Cet axe note **mes chances réelles d'être recruté**, indépendamment de mon envie. Il répond à : "si je candidate, ai-je une vraie chance, ou est-ce que je perds mon temps ?"
+
+Noté sur **6 dimensions pondérées**, score sur 5 → tier **Élevée / Moyenne / Faible**.
+
+### P1. Couverture des compétences obligatoires (poids : 35%)
+
+À quel point je coche les "must-have" explicites de l'annonce (pas les "nice-to-have") ?
+
+- **5/5** — Je coche tous les must-have, certains au niveau expert
+- **4/5** — Je coche tous les must-have de base, quelques-uns juste suffisants
+- **3/5** — Je coche la majorité, un must-have me manque mais rattrapable
+- **2/5** — Plusieurs must-have me manquent
+- **1/5** — La compétence centrale du poste n'est pas la mienne
+- **0/5** — Je ne coche presque rien
+
+### P2. Adéquation séniorité / années exigées (poids : 20%)
+
+Mon niveau d'expérience correspond-il à ce qui est demandé ?
+
+- **5/5** — Pile dans la fourchette demandée
+- **4/5** — Légèrement en-dessous/au-dessus mais crédible (ex : 3,5 ans pour "4 ans")
+- **3/5** — Un cran en-dessous, à argumenter (ex : 3,5 ans pour "5 ans")
+- **2/5** — Net décalage (junior pour un senior, ou l'inverse)
+- **1/5** — Très loin du niveau attendu
+- **0/5** — Hors-jeu (ex : 8+ ans + management formel exigé)
+
+### P3. Formation vs filtre diplôme (poids : 10%)
+
+L'annonce impose-t-elle un filtre diplôme que je ne coche pas ?
+
+- **5/5** — Aucun filtre, ou je coche exactement (ex : "Master" → j'ai un Master)
+- **4/5** — Filtre large que je coche (Bac+5 toutes filières)
+- **3/5** — Filtre "grande école / ingé idéalement" mais ouvert (mon profil passe en compensant par l'expérience)
+- **2/5** — Filtre "école d'ingénieur" strict que je ne coche pas (parcours Finance/Marketing)
+- **1/5** — Double filtre fermé (ex : ingénieur + MBA top)
+- **0/5** — Diplôme spécifique obligatoire que je n'ai pas (PhD, certif réglementée)
+
+### P4. Différenciation / rareté de mon profil (poids : 15%)
+
+Est-ce que j'apporte quelque chose de rare qui me fait sortir du lot ?
+
+- **5/5** — Mon angle unique (consultant Meta officiel, CAPI early adopter 2022) est exactement ce qu'ils cherchent
+- **4/5** — Forte différenciation utile au poste
+- **3/5** — Profil correct mais interchangeable avec d'autres candidats
+- **2/5** — Rien ne me distingue, marché de candidats fourni
+- **1/5** — Je suis en bas de la pile des candidats crédibles
+- **0/5** — Profil clairement hors-cible pour eux
+
+### P5. Sélectivité de l'employeur (poids : 10%) — *inversé*
+
+Plus l'employeur est sélectif et convoité, plus c'est dur. (Note haute = accessible.)
+
+- **5/5** — PME/scale-up qui peine à recruter ce profil, peu de candidats
+- **4/5** — Entreprise correcte, sélectivité normale
+- **3/5** — Marque attractive, beaucoup de candidatures
+- **2/5** — Très convoité (grand groupe tech, conseil prestige) — fort volume, barre haute
+- **1/5** — FAANG / MBB / process ultra-sélectif avec viviers d'écoles cibles
+- **0/5** — Quasi inaccessible sans pedigree spécifique
+
+### P6. Accessibilité & signaux favorables (poids : 10%)
+
+Langue, localisation, réseau, ouverture du poste.
+
+- **5/5** — Langue maîtrisée, localisation idéale, recommandation interne possible, poste ouvert largement
+- **4/5** — Bons signaux, pas d'obstacle d'accès
+- **3/5** — Neutre
+- **2/5** — Un obstacle d'accès (langue exigée limite, process très long, poste presque pourvu)
+- **1/5** — Plusieurs obstacles
+- **0/5** — Barrière rédhibitoire (mobilité, langue non maîtrisée)
+
+## Calcul de la probabilité
+
+```
+Score proba sur 5 = somme des (note × poids) / 100
+```
+
+| Tier | Score | Signification |
+|---|---|---|
+| **Élevée** | 4,0 à 5,0 | Je suis un candidat évident/fort. Ça vaut largement l'effort. |
+| **Moyenne** | 2,5 à 3,9 | J'ai une chance réelle mais pas gagnée. Soigner la candidature pour lever les doutes. |
+| **Faible** | < 2,5 | Peu de chances. Ne candidater que si la désirabilité est très haute (stretch assumé) ou réseau. |
+
+### Malus de probabilité (plafonnent la proba à "Faible")
+
+- Compétence centrale du poste totalement absente de mon profil (ex : data engineering, PhD requis)
+- Filtre diplôme fermé non négociable (ex : "ingénieur exclusivement")
+- Exigence d'années très au-dessus (ex : 7+ ans quand j'en ai 3,5)
+
+### Bonus de probabilité (+ un demi-tier)
+
+- Mon expérience plateforme (Meta officiel) explicitement préférée dans l'annonce
+- Recommandation interne identifiée
+- Entreprise dont j'ai géré le compte annonceur chez Concentrix
+- Pénurie connue sur ce type de profil (ex : experts tracking/CAPI)
+
+---
+
+# MATRICE DE PRIORISATION (croisement des 2 axes)
+
+C'est elle qui décide de l'action finale.
+
+| Désirabilité ↓ \\ Proba → | **Élevée** | **Moyenne** | **Faible** |
+|---|---|---|---|
+| **A / B** (4,0+) | 🎯 **Priorité 1** — fonce, candidature soignée sous 24-48h | ✅ **Priorité 2** — candidate, soigne la LM pour lever les doutes | ⚡ **Stretch** — candidate si vraiment motivé, sans surinvestir |
+| **C** (3,0-3,9) | 🟡 **Plan B utile** — candidate, c'est accessible et correct | 🤔 **Optionnel** — seulement si peu d'autres pistes | ❌ **Laisse** — effort > retour |
+| **D / F** (<3,0) | 🟢 **Alimentaire** — seulement si besoin urgent de job | ❌ **Laisse** | ❌ **Laisse** |
+
+**Règle d'or si l'objectif = décrocher un poste vite** : prioriser la colonne "Proba Élevée", lignes A/B/C. Ce sont les postes que je veux ET que je peux obtenir.
+
+---
+
 ## Format de sortie attendu
 
 Pour chaque annonce évaluée, retourne un bloc structuré comme ceci :
@@ -162,7 +282,7 @@ Pour chaque annonce évaluée, retourne un bloc structuré comme ceci :
 **URL** : [lien]
 **Date d'annonce** : [date]
 
-### Scoring détaillé
+### Axe 1 — Désirabilité
 | Dimension | Note | Poids | Commentaire |
 |---|---|---|---|
 | Match technique | x/5 | 25% | ... |
@@ -176,12 +296,28 @@ Pour chaque annonce évaluée, retourne un bloc structuré comme ceci :
 | Posture | x/5 | 10% | ... |
 | Feu de cœur | x/5 | 5% | ... |
 
-**Score final** : x,x / 5 → **Note [A/B/C/D/F]**
+**Désirabilité : x,x / 5 → Note [A/B/C/D/F]**
+
+### Axe 2 — Probabilité d'embauche
+| Dimension | Note | Poids | Commentaire |
+|---|---|---|---|
+| Compétences obligatoires | x/5 | 35% | ... |
+| Séniorité / années | x/5 | 20% | ... |
+| Formation / filtre diplôme | x/5 | 10% | ... |
+| Différenciation | x/5 | 15% | ... |
+| Sélectivité employeur | x/5 | 10% | ... |
+| Accessibilité | x/5 | 10% | ... |
+
+**Probabilité : x,x / 5 → Tier [Élevée / Moyenne / Faible]**
+
+### Verdict croisé
+**Désirabilité [A-F] × Proba [tier] → [case de la matrice : Priorité 1 / Priorité 2 / Stretch / Plan B / Optionnel / Laisse]**
 
 ### Synthèse
 - ✅ Points forts du match : ...
 - ⚠️ Points faibles / gaps à anticiper : ...
-- 🎯 Recommandation : [candidate / passe ton chemin / à creuser]
+- 🔑 Leviers pour augmenter mes chances : [ce qu'il faut soigner dans la candidature pour lever les doutes recruteur]
+- 🎯 Recommandation : [action issue de la matrice]
 
 ### Mots-clés à injecter dans le CV
 [liste des termes exacts de l'annonce à reprendre dans la version adaptée]
