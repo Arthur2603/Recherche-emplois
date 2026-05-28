@@ -259,6 +259,22 @@ Score proba sur 5 = somme des (note × poids) / 100
 
 ---
 
+# DRAPEAU TIMING — Compatibilité date de démarrage
+
+**Contrainte ferme : disponible au plus tôt en septembre 2026** (préavis Concentrix jusqu'à fin août). Je peux entretenir un process dès maintenant, mais pas démarrer avant septembre.
+
+Pour chaque annonce, évaluer un **drapeau** (pas une note pondérée) selon la date de démarrage / l'urgence affichée :
+
+| Drapeau | Quand | Effet |
+|---|---|---|
+| 🟢 **Compatible** | Pas de date imposée, date ≥ septembre, "selon profil", ou poste de création | Aucun impact, candidater normalement |
+| 🟡 **À négocier** | Démarrage été ou "ASAP" mais poste pointu/senior où ils peuvent attendre le bon profil | Candidater en annonçant clairement ma dispo septembre dès le call RH |
+| 🔴 **Risqué / incompatible** | Démarrage immédiat impératif, remplacement urgent, "ASAP" sur un poste très demandé avec vivier de candidats dispo | **Plafonne la probabilité d'embauche à "Faible"** — ils choisiront probablement un candidat dispo tout de suite |
+
+**Calendrier de candidature optimal** (pour une prise de poste septembre, en comptant 4-8 semaines de process + préavis) : candidater entre **juin et juillet**. Ne pas attendre septembre. Lancer dès maintenant les process longs (grands groupes, plateformes type Microsoft) et caler les démarrages "ASAP" plutôt en juillet.
+
+---
+
 # MATRICE DE PRIORISATION (croisement des 2 axes)
 
 C'est elle qui décide de l'action finale.
@@ -310,8 +326,10 @@ Pour chaque annonce évaluée, retourne un bloc structuré comme ceci :
 
 **Probabilité : x,x / 5 → Tier [Élevée / Moyenne / Faible]**
 
+**Drapeau timing : [🟢 Compatible / 🟡 À négocier / 🔴 Risqué] — [date de démarrage de l'annonce + commentaire dispo septembre]**
+
 ### Verdict croisé
-**Désirabilité [A-F] × Proba [tier] → [case de la matrice : Priorité 1 / Priorité 2 / Stretch / Plan B / Optionnel / Laisse]**
+**Désirabilité [A-F] × Proba [tier] (drapeau timing) → [case de la matrice : Priorité 1 / Priorité 2 / Stretch / Plan B / Optionnel / Laisse]**
 
 ### Synthèse
 - ✅ Points forts du match : ...

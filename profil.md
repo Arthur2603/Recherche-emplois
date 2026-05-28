@@ -7,7 +7,7 @@
 - **Email** : arthur.pawlowski@gmail.com
 - **Téléphone** : +33 6 65 98 57 56
 - **Situation actuelle** : Consultant Meta à Berlin (Concentrix), retour en France imminent
-- **Date de disponibilité** : prochaine — préavis Allemagne à clarifier
+- **Date de disponibilité** : **septembre 2026 (plancher ferme)** — préavis Concentrix Allemagne jusqu'à fin août, non négociable. Disponible pour entretenir un process de recrutement dès maintenant, mais prise de poste au plus tôt en septembre.
 - **Mobilité** : Paris et IDF, peu enclin à un retour en province
 - **Télétravail souhaité** : hybride (2-3 jours bureau / semaine), ponctuel acceptable
 
