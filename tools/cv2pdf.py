@@ -56,7 +56,8 @@ def build(md, out):
 
     doc = SimpleDocTemplate(out, pagesize=A4, topMargin=1.3*cm, bottomMargin=1.2*cm,
                             leftMargin=1.9*cm, rightMargin=1.9*cm,
-                            title="CV Arthur Pawlowski")
+                            title="CV Arthur Pawlowski", author="Arthur Pawlowski",
+                            creator="Arthur Pawlowski", subject="Curriculum Vitae")
     flow = []
     lines = md.split('\n')
     i = 0

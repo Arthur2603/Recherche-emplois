@@ -41,7 +41,8 @@ def build(md, out):
     cellh = ParagraphStyle('cellh', parent=cell, textColor=colors.white)
 
     doc = SimpleDocTemplate(out, pagesize=A4, topMargin=1.6*cm, bottomMargin=1.6*cm,
-                            leftMargin=1.8*cm, rightMargin=1.8*cm)
+                            leftMargin=1.8*cm, rightMargin=1.8*cm,
+                            author="Arthur Pawlowski", creator="Arthur Pawlowski")
     flow = []
     lines = md.split('\n')
     i = 0

@@ -1,29 +1,19 @@
-# Lettre de motivation — Client Solutions Manager, Microsoft Advertising
-
-**French Strategic Advertising Sales team — Microsoft Advertising**
-Réf. 200037337 · Paris, le 28 mai 2026
-
----
+**Arthur Pawlowski** · +33 6 65 98 57 56 · arthur.pawlowski@gmail.com
+Candidature — Client Solutions Manager, Microsoft Advertising (réf. 200037337)
+Paris, le 28 mai 2026
 
 Madame, Monsieur,
 
-Depuis 3,5 ans, je suis **consultant officiel Meta chez Concentrix**, côté plateforme publicitaire, en charge d'un portefeuille de 350+ annonceurs francophones — de Lexus à des e-commerçants 8 chiffres. C'est exactement la posture que décrit votre annonce : être le **trusted advisor** d'annonceurs stratégiques, piloter à la fois le revenu et leur satisfaction, et faire grandir leurs campagnes par des **data-driven optimizations**. Le poste de Client Solutions Manager au sein de votre équipe French Strategic est, pour moi, une continuité naturelle — côté Microsoft Advertising cette fois.
+Cela fait trois ans et demi que je suis du côté de la plateforme, chez Concentrix, où Meta nous confie l'accompagnement de ses annonceurs. J'ai géré jusqu'à 350 comptes francophones en parallèle — Lexus un jour, un e-commerçant qui démarre à zéro le lendemain. Quand j'ai lu votre annonce, j'ai surtout reconnu mon quotidien : être l'interlocuteur de confiance d'un annonceur, l'aider à tirer plus de ses campagnes avec de la donnée, et faire grandir le compte sans jamais lui vendre ce dont il n'a pas besoin.
 
-**Ce que j'apporte, en miroir de vos attentes :**
+Concrètement, sur la partie qui vous intéresse : pendant un an comme Marketing Solutions Specialist, j'ai optimisé des campagnes performance (Advantage+, retargeting, audiences lookalike) en pilotant le ROAS, le CPA et le CAC compte par compte. Mon travail consistait à regarder les chiffres, comprendre la saisonnalité et les objectifs business du client, puis convaincre un Digital Marketing Manager — parfois sceptique — de changer sa structure de compte ou ses signaux de conversion. C'est exactement le "lead with data and insights" que vous décrivez.
 
-- **Expérience côté online platform** (que votre annonce préfère explicitement) : j'ai vu la publicité digitale de l'intérieur d'une plateforme majeure, pas seulement comme annonceur ou agence. Je connais la mécanique d'optimisation de la consommation média, les leviers de croissance d'un compte et les arbitrages produit.
-- **Optimisation de campagnes performance** : pilotage quotidien des KPIs (ROAS, CPA, CAC), recommandations sur la structure de comptes, les audiences et les signaux de conversion. J'ai fait croître la valeur de comptes du nouvel entrant au grand compte premium.
-- **Posture conseil auprès de décideurs marketing** : je présente insights et recommandations à des Digital Marketing Managers et Directors, j'adapte le discours à la maturité de chaque interlocuteur, et j'identifie les opportunités d'**upsell** et de croissance.
-- **Compréhension approfondie de l'attribution et du tracking** : avant le conseil performance, j'ai passé 18 mois sur le tracking (CAPI, attribution, qualité data). Je sais relier la donnée à la performance des campagnes — un atout pour porter un récit produit crédible auprès de buying groups exigeants.
-- **Bilingue FR/EN opérationnel** au quotidien depuis 3,5 ans en environnement international.
+Avant ça, j'ai passé dix-huit mois sur le tracking et l'attribution. J'ai notamment été l'un des premiers de mon équipe à déployer la CAPI de Meta via GTM server-side, en 2022, quand la solution venait de sortir et que personne n'avait de mode d'emploi. Cette compréhension fine de l'attribution m'aide à porter un discours produit crédible : je sais relier une recommandation à ce qu'elle change réellement dans la mesure.
 
-Le passage du Search me sera rapide : la logique d'optimisation performance, de solution selling et de relation annonceur est la même ; seule la plateforme change, et j'aime apprendre vite (j'ai été early adopter de la CAPI dès 2022 sur une techno alors naissante).
+Je ne connais pas encore le Search aussi bien que Meta, je préfère le dire franchement. Mais la logique d'optimisation, de solution selling et de relation annonceur est la même, et je monte vite sur un sujet nouveau — la CAPI en est la preuve. Le UET tag et l'écosystème Microsoft Advertising, je m'y mets dès maintenant.
 
-**Point de transparence sur le calendrier** : je termine actuellement mon préavis chez Concentrix et serais disponible pour une prise de poste **à partir de septembre 2026**. Je suis en revanche pleinement disponible pour avancer dès maintenant sur le process d'entretiens.
+Un point de transparence sur le calendrier : je termine mon préavis chez Concentrix et je serais opérationnel à partir de septembre. En revanche, je peux avancer sur les entretiens dès aujourd'hui.
 
-Je serais ravi d'échanger sur la façon dont mon expérience plateforme peut servir vos annonceurs Enterprise & Strategic.
+Je serais content de vous montrer, exemples à l'appui, comment je fais grandir un portefeuille d'annonceurs.
 
-Bien cordialement,
-
-**Arthur Pawlowski**
-+33 6 65 98 57 56 · arthur.pawlowski@gmail.com
+Arthur Pawlowski

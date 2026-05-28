@@ -124,3 +124,7 @@ Par ordre de préférence :
 ## Centres d'intérêt
 
 Veille IA et technologies émergentes · Lecture · Sport (course à pied, foot, salle)
+
+## Rédaction des candidatures
+
+Toutes les lettres de motivation et réponses libres doivent suivre `style-redaction.md` (voix humaine, détails spécifiques, anti-tells IA). Le CV reste factuel et n'a pas besoin de ce traitement.
