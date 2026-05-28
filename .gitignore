@@ -1,13 +1,10 @@
-# Personal data (user fills these)
-cv.md
-data/applications.md
+# Personal data — repo privé, on persiste candidatures/, reports/, applications.md
+# (cv.md, profil.md, scoring.md déjà trackés)
 data/pipeline.md
 data/scan-history.tsv
 data/parser-output/**/*.json
 !data/parser-output/.gitkeep
 !data/parser-output/**/.gitkeep
-reports/*.md
-!reports/.gitkeep
 output/*
 !output/.gitkeep
 batch/logs/*
@@ -18,8 +15,6 @@ batch/tracker-additions/**/*.tsv
 !batch/tracker-additions/.gitkeep
 jds/*
 !jds/.gitkeep
-candidatures/*
-!candidatures/.gitkeep
 
 # Writing samples (user's personal files — never committed)
 writing-samples/*
