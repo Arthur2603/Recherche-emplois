@@ -7,7 +7,7 @@
 - **Email** : arthur.pawlowski@gmail.com
 - **Téléphone** : +33 6 65 98 57 56
 - **Situation actuelle** : Consultant Meta à Berlin (Concentrix), retour en France imminent
-- **Date de disponibilité** : **septembre 2026 (plancher ferme)** — préavis Concentrix Allemagne jusqu'à fin août, non négociable. Disponible pour entretenir un process de recrutement dès maintenant, mais prise de poste au plus tôt en septembre.
+- **Date de disponibilité** : **septembre 2026** — contrainte **logistique** (retour de Berlin, installation/logement à sécuriser à Paris), pas contractuelle. J'ai reçu ma severance de Concentrix fin mai 2026, donc je suis **déjà libre côté emploi** et immédiatement disponible pour les process de recrutement. Le démarrage septembre est mon scénario confortable ; pour une offre forte, un démarrage anticipé reste négociable (logement temporaire, hybride/remote au départ).
 - **Mobilité** : Paris et IDF, peu enclin à un retour en province
 - **Télétravail souhaité** : hybride (2-3 jours bureau / semaine), ponctuel acceptable
 

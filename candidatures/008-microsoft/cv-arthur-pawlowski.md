@@ -36,4 +36,4 @@ _Prestataire externalisé officiel de Meta · Berlin · Zone francophone (France
 **Certification** — Financial Markets, Yale University (ID NDUOCLN33V8X)
 
 ## Disponibilité
-Disponible pour le process de recrutement dès maintenant ; prise de poste à partir de **septembre 2026** (préavis en cours).
+Disponible pour le process de recrutement dès maintenant ; prise de poste à partir de **septembre 2026** (installation à Paris en cours).

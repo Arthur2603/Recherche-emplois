@@ -261,7 +261,7 @@ Score proba sur 5 = somme des (note × poids) / 100
 
 # DRAPEAU TIMING — Compatibilité date de démarrage
 
-**Contrainte ferme : disponible au plus tôt en septembre 2026** (préavis Concentrix jusqu'à fin août). Je peux entretenir un process dès maintenant, mais pas démarrer avant septembre.
+**Disponibilité cible : septembre 2026** — contrainte logistique (retour de Berlin, logement à sécuriser à Paris), PAS contractuelle. Severance Concentrix reçue fin mai 2026 → déjà libre côté emploi, disponible pour les process dès maintenant. Septembre = scénario confortable ; démarrage anticipé négociable pour une offre forte (logement temporaire, hybride au départ).
 
 Pour chaque annonce, évaluer un **drapeau** (pas une note pondérée) selon la date de démarrage / l'urgence affichée :
 

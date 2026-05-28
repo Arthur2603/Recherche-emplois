@@ -12,7 +12,7 @@ Avant ça, j'ai passé dix-huit mois sur le tracking et l'attribution. J'ai nota
 
 Je ne connais pas encore le Search aussi bien que Meta, je préfère le dire franchement. Mais la logique d'optimisation, de solution selling et de relation annonceur est la même, et je monte vite sur un sujet nouveau — la CAPI en est la preuve. Le UET tag et l'écosystème Microsoft Advertising, je m'y mets dès maintenant.
 
-Un point de transparence sur le calendrier : je termine mon préavis chez Concentrix et je serais opérationnel à partir de septembre. En revanche, je peux avancer sur les entretiens dès aujourd'hui.
+Un point de transparence sur le calendrier : je rentre de Berlin et je finalise mon installation à Paris, donc je vise une prise de poste en septembre. Je suis en revanche totalement disponible pour avancer sur les entretiens dès maintenant, et ouvert à démarrer plus tôt si besoin.
 
 Je serais content de vous montrer, exemples à l'appui, comment je fais grandir un portefeuille d'annonceurs.
 
