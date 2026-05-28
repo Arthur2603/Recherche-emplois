@@ -7,7 +7,7 @@
 - **Email** : arthur.pawlowski@gmail.com
 - **Téléphone** : +33 6 65 98 57 56
 - **Situation actuelle** : Consultant Meta à Berlin (Concentrix), retour en France imminent
-- **Date de disponibilité** : **septembre 2026** — contrainte **logistique** (retour de Berlin, installation/logement à sécuriser à Paris), pas contractuelle. J'ai reçu ma severance de Concentrix fin mai 2026, donc je suis **déjà libre côté emploi** et immédiatement disponible pour les process de recrutement. Le démarrage septembre est mon scénario confortable ; pour une offre forte, un démarrage anticipé reste négociable (logement temporaire, hybride/remote au départ).
+- **Date de disponibilité** : **septembre 2026** — contrainte **logistique** (retour de Berlin, installation/logement à sécuriser à Paris), pas contractuelle. **Départ volontaire** de Concentrix fin mai 2026 (choix personnel de rentrer en France après 3,5 ans), négocié à l'amiable avec 2 mois de salaire supplémentaires. Je suis **déjà libre côté emploi** et immédiatement disponible pour les process. Septembre = scénario confortable ; démarrage anticipé négociable pour une offre forte (logement temporaire, hybride au départ). Cushion financier de quelques mois → pas en situation d'urgence, je peux viser la qualité.
 - **Mobilité** : Paris et IDF, peu enclin à un retour en province
 - **Télétravail souhaité** : hybride (2-3 jours bureau / semaine), ponctuel acceptable
 
@@ -124,6 +124,13 @@ Par ordre de préférence :
 ## Centres d'intérêt
 
 Veille IA et technologies émergentes · Lecture · Sport (course à pied, foot, salle)
+
+## Récit de départ (pour entretiens)
+
+À la question "pourquoi quittez-vous Concentrix ?" :
+> "Un choix personnel : après 3,5 ans à Berlin, je voulais rentrer en France, à Paris. J'en ai parlé ouvertement avec Concentrix, on s'est quittés en bons termes — ils ont même accompagné mon départ. Aujourd'hui je veux mettre mon expertise au service d'un poste [tracking / data / publicité] côté français."
+
+**Points clés** : départ choisi et maîtrisé (pas subi), relation saine avec l'employeur, motivation = projet de vie + ambition pro. Ne pas s'étendre sur les 2 mois de salaire / la négociation — c'est un détail privé, le message est "départ à l'amiable".
 
 ## Rédaction des candidatures
 
