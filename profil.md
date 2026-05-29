@@ -106,6 +106,18 @@ Par ordre de préférence :
 | **Secteur** | Indifférent — la data prime sur le secteur |
 | **Pas envie de** | Retour au support pur, postes d'agence avec turnover élevé reconnu, alternance, missions sans CDI |
 
+## Auto-évaluation des compétences (calibrage)
+
+**Honnêteté sur le niveau réel aujourd'hui** (à jour mai 2026) :
+
+- **Force vive actuelle = marketing / paid media / conseil client.** Mes 2 dernières années (Marketing Solutions puis Business Assets) m'ont éloigné de l'implémentation technique quotidienne. Je suis excellent sur : optimisation de campagnes, ROAS/CPA/CAC, posture conseil/trusted advisor, relation annonceur, vulgarisation.
+- **Tracking hands-on un peu rouillé.** GTM/CAPI/server-side : j'ai un solide socle (early adopter CAPI 2022) mais je ne pratique plus l'implémentation au quotidien depuis ~2 ans. Sur un test technique ou une étude de cas tracking pointue, je serais à rafraîchir avant.
+
+**Implications pour le ciblage :**
+1. **Privilégier les rôles où le marketing/conseil prime** (paid media, client success, data consulting orienté conseil/advisory) — c'est là que je suis le plus fort ET le plus crédible en entretien tout de suite.
+2. **Pour les rôles "Expert Tracking" purs et techniques** (EBRA, Ad's up/Piano, fifty-five) : viables mais à traiter comme des stretches **sauf si je rafraîchis** GTM/GA4/Piano/server-side avant les rounds techniques. Sur l'axe probabilité, tempérer la note "compétences obligatoires" tant que le refresh n'est pas fait.
+3. **Plan de refresh possible cet été** (j'ai du runway) : recertifs GTM/GA4, repasser sur Piano Analytics, refaire un setup CAPI server-side de bout en bout — pour remettre les rôles tracking pointus pleinement en jeu.
+
 ## Ce que j'apporte de différenciant
 
 - **Expérience Meta officielle** (pas juste "annonceur qui a fait de la pub") — vue interne plateforme, posture conseil
