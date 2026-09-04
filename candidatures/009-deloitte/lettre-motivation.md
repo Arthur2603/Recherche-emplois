@@ -1,23 +1,25 @@
 **Arthur Pawlowski** · +33 6 65 98 57 56 · arthur.pawlowski@gmail.com
-Candidature — Consultant / Senior Consultant Customer, Digital & Marketing Strategy (Deloitte Digital)
+Candidature — Consultant, Customer, Digital & Marketing Strategy · Deloitte Digital
 Paris, le 28 mai 2026
 
 Madame, Monsieur,
 
-Ces 3,5 dernières années, j'ai été consultant Meta chez Concentrix, ce qui veut dire concrètement une chose : quand un annonceur — Lexus, un scale-up e-commerce à 8 chiffres, ou une marque qui démarre à zéro — avait un problème de stratégie d'acquisition, de rétention ou de mesure sur Meta, il m'avait au bout du fil. J'ai fait ça pour 350 comptes en parallèle. Ce n'est pas du conseil stratégique au sens BCG, mais c'est bien du conseil, au quotidien, sur exactement les sujets que Deloitte Digital traite — stratégie marketing, transformation data, expérience client.
+Pendant trois ans et demi, j'ai été le consultant Meta de 350 annonceurs francophones. Concrètement : quand Lexus, un scale-up e-commerce à huit chiffres ou une marque qui démarrait avaient un problème d'acquisition, de rétention ou de mesure, c'est moi qu'ils appelaient. Je cadrais, je recommandais, je défendais l'arbitrage devant leur direction marketing. Ce n'est pas le conseil en stratégie au sens classique du terme, mais c'est du conseil, tous les jours, sur les sujets exacts que traite Deloitte Digital.
 
-Ce qui m'attire chez vous, c'est le passage d'échelle. Je veux arrêter d'agir compte par compte pour piloter des programmes de transformation entiers, aux côtés de designers, d'architectes et de développeurs, avec des interlocuteurs C-level. J'ai déjà cette diversité d'interlocuteurs — un Digital Marketing Director de grande marque ne se pilote pas comme un fondateur de D2C — mais chez vous, j'aurais le cadre et l'équipe pour agir sur la transformation complète, pas seulement le canal Meta.
+Ce qui m'attire chez vous, c'est le changement d'échelle. Aujourd'hui j'agis canal par canal, compte par compte. J'ai envie de piloter des programmes de transformation entiers — cadrer l'expérience client de bout en bout, travailler avec des designers, des architectes et des développeurs plutôt qu'en solo sur un compte publicitaire.
 
-Sur ce que j'apporte concrètement à vos missions :
+Trois choses que j'apporte tout de suite :
 
-- Une **vraie culture Digital, Marketing & Data**. Attribution, tracking, CAPI, Consent Mode, plateformes publicitaires — j'ai fait tourner tout ça au quotidien, du côté d'une plateforme mondiale. Quand un client Deloitte parlera de sa stack CRM ou de son parcours d'acquisition, je saurai de quoi il parle.
-- Une **capacité à traduire la donnée en décision business**. Pilotage ROAS/CPA/CAC, recommandations sur la structure de comptes, cadrage de plans de marquage : je passe mes journées à faire ce pont-là.
-- Le **collectif**. Chez Concentrix j'ai back-upé le Team Lead d'une équipe de 7 à 10 consultants, ce qui veut dire coordination, transmission, arbitrages. J'ai aussi animé les learning meetings sur les technos naissantes (CAPI early adopter en 2022).
+Une culture Digital, Marketing & Data qui vient du terrain. Attribution, tracking, CAPI, Consent Mode, plateformes publicitaires : j'ai fait tourner ça au quotidien depuis l'intérieur d'une plateforme mondiale. Quand un client parlera de sa stack ou de son parcours d'acquisition, je saurai ce qu'il y a derrière les mots.
 
-Un point d'honnêteté sur le profil. Je ne viens pas d'une grande école cible du conseil stratégique et je n'ai pas fait ma classe d'analyste chez un Big 4. J'arrive avec 3,5 ans d'expérience terrain dans une plateforme mondiale, la posture conseil pratiquée tous les jours, et l'envie d'apprendre le métier structuré du conseil chez la référence du secteur. C'est un pari des deux côtés — je le pense payant.
+L'habitude de traduire la donnée en décision. Piloter un ROAS, arbitrer un budget, expliquer pourquoi une structure de compte doit changer — et convaincre quelqu'un qui n'a pas envie d'y croire. C'est le cœur de ce que je faisais.
 
-Un point de calendrier : je rentre de Berlin et je finalise mon installation à Paris, prise de poste visée septembre. Je suis disponible pour les entretiens et l'étude de cas dès maintenant.
+Le réflexe collectif. J'ai back-upé le Team Lead d'une équipe de 7 à 10 consultants : coordination, arbitrages, transmission. J'ai aussi animé les learning meetings quand la CAPI est sortie en 2022 et que personne n'avait encore de mode d'emploi.
 
-Je serais content d'échanger, exemples à l'appui, sur la façon dont mon vécu plateforme peut servir vos missions de transformation.
+Un mot d'honnêteté. Je ne sors pas d'une école cible du conseil et je n'ai pas fait mes classes d'analyste dans un Big 4. J'arrive avec un vécu de praticien, une posture conseil rodée sur trois ans et demi, et l'envie d'apprendre le métier structuré du conseil là où il s'exerce le mieux. C'est un pari des deux côtés ; je le crois gagnant, et je suis prêt à le démontrer sur une étude de cas.
+
+Côté calendrier : je rentre de Berlin et finalise mon installation à Paris, pour une prise de poste en septembre. Je suis disponible dès maintenant pour les entretiens.
+
+Au plaisir d'en discuter.
 
 Arthur Pawlowski
