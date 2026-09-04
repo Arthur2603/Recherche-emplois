@@ -92,6 +92,7 @@ Par ordre de préférence :
 3. **Performance Marketing Manager**
 4. **Data Marketing Manager** / Marketing Analytics
 5. **Consultant Senior Web Analytics**
+6. **Consultant Customer / Digital / Marketing Strategy chez Big 4** (Deloitte, KPMG, EY, PwC) — la marque Big 4 me donne envie, à assumer comme stretch avec reco interne. Scanner les 4 en systématique.
 
 ## Critères de sélection
 
