@@ -19,11 +19,26 @@ On ne cherche pas à "tromper" un détecteur (impossible de façon fiable, et le
 
 ## À ÉVITER (les "tells" qui trahissent l'IA)
 
+### RÈGLE N°1 : jamais de tiret cadratin (—)
+C'est **le** signal le plus reconnaissable en français. Un francophone n'utilise quasiment jamais le tiret cadratin en prose courante ; il met une virgule, un deux-points, une parenthèse, ou il coupe la phrase. Une IA en met partout.
+
+- ❌ `J'ai géré 350 comptes — de Lexus aux petites marques — pendant trois ans.`
+- ✅ `J'ai géré 350 comptes, de Lexus aux petites marques, pendant trois ans.`
+- ❌ `**Compétences** — acquisition · rétention`
+- ✅ `**Compétences** : acquisition · rétention`
+- ❌ `Marketing Solutions Specialist — Conseil performance`
+- ✅ `Marketing Solutions Specialist, conseil performance`
+
+Le tiret demi-cadratin (–) reste acceptable **uniquement** dans les plages de dates (`Oct. 2022 – Mai 2026`).
+
+### Autres tells
 - Formules passe-partout : *"En tant que professionnel passionné…", "Je serais ravi de…", "Fort de mon expérience…", "C'est avec un grand intérêt que…"*
-- Structures trop symétriques : *"non seulement… mais aussi"*, triades systématiques (toujours trois éléments), tirets cadratins partout
+- Structures trop symétriques : *"non seulement… mais aussi"*, triades systématiques (toujours trois éléments, toujours au même rythme)
+- Annonces de plan mécaniques : *"Trois choses que j'apporte :"*, *"Voici pourquoi :"* → préférer un enchaînement naturel
 - Jargon corporate-IA : *leverage, synergies, écosystème dynamique, à l'ère du numérique, dans un monde en constante évolution, proactif, force de proposition*
 - Texte trop lisse : toutes les phrases de même longueur, zéro détail concret, aucune émotion ou opinion
 - Conclusions génériques : *"Dans l'attente de votre retour, je vous prie d'agréer…"* en pilote automatique
+- Puces dans une lettre de motivation : ça sent le template. Préférer des paragraphes courts.
 
 ## INTERDIT
 
