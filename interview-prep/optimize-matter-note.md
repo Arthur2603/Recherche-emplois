@@ -45,11 +45,40 @@ Couverture solide du cœur (GTM, server-side, plan de marquage), à découvert s
 > Arthur Pawlowski
 > +33 6 65 98 57 56
 
+## Retournement : l'échange est maintenu
+
+**9 septembre 2026, 10h07.** Réponse de **Pierre Ferrier, Founding partner** (103 Bd de Charonne, 75011 Paris) :
+
+> « Je vous propose de conserver cet échange afin de faire le point sur votre profil et en fonction de se statuer. »
+
+Le désistement n'a pas fermé la porte, il a déclenché un échange avec le fondateur lui-même. La phrase de courtoisie laissée en fin de mail (« si vous estimez malgré tout que l'échange garde du sens ») a joué son rôle.
+
+**Statut réel : Interview maintenue.**
+
+### Ce que ça implique
+
+- Interlocuteur = **founding partner**, pas un recruteur. Décision directe, sans filtre.
+- L'objet de l'échange est explicitement de **statuer sur le périmètre**. Redirection probable vers Consultant Web Analytics ou Consultant Data Marketing.
+- **Piano Analytics est central** chez eux : leur signature affiche « Piano Analytics Partenaire Certifié » à côté de Google Marketing Platform Certified. Sujet à anticiper.
+
+### Posture à tenir
+
+Ne pas répéter les manques. La déclaration d'honnêteté a été faite et acceptée. L'échange doit servir à **montrer ce qui est acquis**, pas à re-minimiser le profil.
+
+Être précis sur :
+- Le déploiement CAPI via sGTM de 2022 : architecture, déduplication, EMQ
+- La rédaction de plans de marquage et le travail avec les équipes techniques côté client
+- Un audit qualité data mené de bout en bout, avec la méthode de diagnostic
+- **La distinction entre ce qui est opérationnel sans révision et ce qui demanderait deux semaines de remise à niveau.** C'est la question qui intéresse vraiment un fondateur qui doit staffer.
+
 ## Suite à donner
 
-- [ ] Envoyer le mail dans le fil de l'invitation
-- [ ] Si réponse positive sur Consultant Web Analytics ou Data Marketing : demander la fiche de poste et monter un dossier
-- [ ] Relancer à froid dans 2-3 mois si le refresh technique est fait
+- [x] Mail de désistement envoyé
+- [x] Réponse de Pierre Ferrier : échange maintenu
+- [ ] Confirmer le créneau
+- [ ] Préparer les exemples concrets (CAPI sGTM, plan de marquage, audit qualité data)
+- [ ] Se renseigner a minima sur Piano Analytics avant l'échange
+- [ ] Orienter la conversation vers Consultant Web Analytics / Data Marketing si le poste initial reste hors de portée
 
 ## Enseignement pour le ciblage
 

@@ -2,7 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
-| 10 | 2026-09-09 | Optimize matter | Tracking & Analytics Specialist | 3.0/5 | Discarded | ❌ | [010](interview-prep/optimize-matter-note.md) | Désisté avant entretien : gap JS natif ES6+/DOM/SPA + Piano/Tealium. Redirection demandée vers Consultant Web Analytics / Data Marketing. |
+| 10 | 2026-09-09 | Optimize matter | Tracking & Analytics Specialist | 3.0/5 | Interview | ❌ | [010](interview-prep/optimize-matter-note.md) | Désistement annoncé, mais Pierre Ferrier (founding partner) maintient l'échange pour statuer sur le profil. Redirection probable vers Consultant Web Analytics / Data Marketing. Piano Analytics central chez eux. |
 | 11 | 2026-09-08 | Arcane | Consultant Data Analyst | 3.8/5 | Interview | ❌ | [011](interview-prep/arcane-consultant-data-analyst.md) | Fiche entretien faite (pas déval grille complète). Équipe Smart Data Orchestration. Atout activation/catalogue, gap SQL/BigQuery. Process 3 étapes dont étude de cas. |
 | 12 | 2026-09-08 | RX France | Responsable Acquisition et Rétention | 4.5/5 | Interview | ❌ | [012](interview-prep/rx-france-responsable-acquisition-retention.md) | Meilleur fit du pipeline. Salaire affiché 44,1-73,3k, viser 55-60k. Gap SEO + leadership formel. La Défense, 2j TT. |
 | 13 | 2026-09-08 | PIXID | Sales Account Executive SMB | 2.8/5 | Interview | ❌ | [013](interview-prep/pixid-account-executive-smb.md) | Changement de métier (vente, quota). Fondée par Adecco/Manpower/Randstad. OTE estimé 50-65k. Priorité basse. |
