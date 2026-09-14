@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 14 | 2026-09-14 | Lucca | Consultant Customer Success Grands Comptes | 4.2/5 | Interview | ❌ | [014](interview-prep/lucca-customer-success.md) | Redirection proposée par Marion Herbert (TA Manager) depuis une autre candidature. Équipe CS Grands Comptes de 25 pers, clients ARR >14k. Démarrage janvier. Process 4 étapes dont 2 présentations. Bon fit posture CS. |
 | 10 | 2026-09-09 | Optimize matter | Tracking & Analytics Specialist | 3.0/5 | Interview | ❌ | [010](interview-prep/optimize-matter-note.md) | Désistement annoncé, mais Pierre Ferrier (founding partner) maintient l'échange pour statuer sur le profil. Redirection probable vers Consultant Web Analytics / Data Marketing. Piano Analytics central chez eux. |
 | 11 | 2026-09-08 | Arcane | Consultant Data Analyst | 3.8/5 | Interview | ❌ | [011](interview-prep/arcane-consultant-data-analyst.md) | Fiche entretien faite (pas déval grille complète). Équipe Smart Data Orchestration. Atout activation/catalogue, gap SQL/BigQuery. Process 3 étapes dont étude de cas. |
 | 12 | 2026-09-08 | RX France | Responsable Acquisition et Rétention | 4.5/5 | Interview | ❌ | [012](interview-prep/rx-france-responsable-acquisition-retention.md) | Meilleur fit du pipeline. Salaire affiché 44,1-73,3k, viser 55-60k. Gap SEO + leadership formel. La Défense, 2j TT. |
